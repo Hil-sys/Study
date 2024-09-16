@@ -1,9 +1,6 @@
 a = '32.05.2006'
 
-d, m, y = map(int, a.split('.'))
-
-if d > 31:
-    print('Ошибка ввода')
+b, c = int(input())
     
 
-print(d, m, y, int('00'))
+print(b, c, y, int('00'))
