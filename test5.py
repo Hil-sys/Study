@@ -4,4 +4,4 @@ b, c = int(input())
     
 
 print(b, c)
-print(b + c)
+print(b - c)
